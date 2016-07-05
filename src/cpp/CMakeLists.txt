@@ -1,0 +1,1 @@
+set(CPP_SOURCES ${CPP_SOURCES} cpp/main.cpp PARENT_SCOPE)
